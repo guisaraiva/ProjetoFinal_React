@@ -43,7 +43,9 @@ Como um profissional front-end, você será responsável por desenvolver as prin
 
     Deve ser possível adicionar itens por tamanho no carrinho de compras.
 
-    Deve ser possível visualizar os itens adicionados no carrinho de compras, exibindo imagem, nome, preço e quantidade.
+    Deve ser possível visualizar:
+        - Itens adicionados no carrinho de compras
+        - Exibir imagem, nome, preço e quantidade.
 
     Deve ser possível remover itens do carrinho de compras.
 
