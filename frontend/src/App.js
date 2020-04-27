@@ -1,9 +1,24 @@
 import React from 'react';
-
+import './styles.css';
 
 function App() {
   return (
-    <h1>Hello Word !!</h1>
+    <section class="estrutura">
+    Corpo
+    <section class="header">
+    Banner
+    </section>
+    <nav class="menu">
+    Menu
+    </nav>
+    <section class="conteudo">
+    Conteúdo
+    </section>
+    <footer class="rodape">
+    Rodapé
+    </footer>
+    </section>
+   
   );
 }
 
